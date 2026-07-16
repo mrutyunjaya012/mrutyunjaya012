@@ -1,11 +1,10 @@
 # 💫 About Me:
-Hi there 👋, I'm Mrutyunjaya<br><br> Full Stack Developer | Software Engineering Enthusiast<br><br>I'm a passionate Full Stack Developer and Software Engineering enthusiast who enjoys building scalable web applications and solving challenging algorithmic problems. I believe in writing clean, maintainable code and continuously improving my problem-solving skills.<br><br>🚀 About Me<br>
+Hi there 👋, I'm Mrutyunjaya<br><br> Full Stack Developer | Software Engineering Enthusiast<br><br>I'm a passionate Full Stack Developer and Software Engineering enthusiast who enjoys building scalable web applications and solving challenging algorithmic problems. I believe in writing clean, maintainable code and continuously improving my problem-solving skills.<br><br>
 
 💻 Full Stack Development • REST APIs • Modern Web Technologies<br>
 ⚛️ Tech Stack: C++, Java, JavaScript, React, Node.js, Express.js, MongoDB<br>
 🧩 Strong in Data Structures & Algorithms & Problem Solving<br>
 ☁️ Exploring System Design, Cloud, and Scalable Distributed Systems<br>
-🌱 Lifelong learner, passionate about Open Source and engineering best practices<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thatgenzcoder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrutyunjaya011) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrutyunjaya407@gmail.com) 
