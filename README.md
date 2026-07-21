@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1f0d&height=200&section=header&text=MRUTYUNJAYA&fontSize=60&fontColor=43a047&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Code.%20Build.%20Innovate.%20Repeat.&descAlignY=58&descColor=43a047&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=200&section=header&text=MRUTYUNJAYA&fontSize=58&fontColor=bb9af7&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Code.%20Build.%20Innovate.%20Repeat.&descAlignY=58&descColor=7dcfff&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=43a047&background=00000000&center=true&vCenter=true&width=650&lines=%3E+whoami+%3D%3D+Full+Stack+Developer;%3E+passion+%3D%3D+Clean+Code+%2B+Scalable+Systems;%3E+status+%3D%3D+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7DCFFF&background=00000000&center=true&vCenter=true&width=650&lines=%3E+whoami+%3D%3D+Full+Stack+Developer;%3E+passion+%3D%3D+Clean+Code+%2B+Scalable+Systems;%3E+status+%3D%3D+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=43a047"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=43a047"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=43a047"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=43a047"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=43a047"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=43a047"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=43a047"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=43a047"/>
+<img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7dcfff"/>
+<img src="https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=e0af68"/>
+<img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=9ece6a"/>
+<img src="https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=ff9e64"/>
+<img src="https://img.shields.io/badge/Node.js-1a1b26?style=for-the-badge&logo=node.js&logoColor=9ece6a"/>
+<img src="https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=9ece6a"/>
+<img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7dcfff"/>
+<img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=bb9af7"/>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://github.com/mrutyunjaya012.png" width="150" style="border-radius:50%; border:3px solid #43a047"/>
+<img src="https://github.com/mrutyunjaya012.png" width="150" style="border-radius:50%; border:3px solid #bb9af7"/>
 
 ### Mrutyunjaya ✅
 `@mrutyunjaya012`
@@ -49,7 +49,7 @@ Passionate about building scalable web applications and solving real-world probl
 
 **PROFILE VIEWS**
 
-[![](https://komarev.com/ghpvc/?username=mrutyunjaya012&label=&color=43a047&style=flat-square)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=mrutyunjaya012&label=&color=bb9af7&style=flat-square)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -62,14 +62,14 @@ Passionate about building scalable web applications and solving real-world probl
 
 **🔥 GitHub Stats**
 
-<img src="https://github-readme-stats.shion.dev/api?username=mrutyunjaya012&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=43a047&icon_color=43a047&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=mrutyunjaya012&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
 
 **⚡ Streak Stats**
 
-<img src="https://streak-stats.demolab.com/?user=mrutyunjaya012&theme=dark&hide_border=true&background=000000&ring=43a047&fire=43a047&currStreakLabel=43a047&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=mrutyunjaya012&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 </tr>
@@ -78,14 +78,14 @@ Passionate about building scalable web applications and solving real-world probl
 
 **🧠 Top Languages**
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mrutyunjaya012&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=43a047&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mrutyunjaya012&layout=donut&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
 
 **🏆 GitHub Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=mrutyunjaya012&theme=algolia&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mrutyunjaya012&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="100%"/>
 
 </td>
 </tr>
@@ -138,9 +138,9 @@ Passionate about building scalable web applications and solving real-world probl
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f0d,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=120&section=footer" width="100%"/>
 
-Made with 💚 by **Mrutyunjaya**
+Made with 💜 by **Mrutyunjaya**
 
 </div>
 
