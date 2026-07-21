@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7DCFFF&background=00000000&center=true&vCenter=true&width=650&lines=%3E+whoami+%3D%3D+Full+Stack+Developer;%3E+passion+%3D%3D+Clean+Code+%2B+Scalable+Systems;%3E+status+%3D%3D+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7dcfff"/>
 <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=e0af68"/>
@@ -17,89 +17,44 @@
 <img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7dcfff"/>
 <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=bb9af7"/>
 
-</div>
+<br><br>
 
-<br>
-
-<table width="100%" border="0">
-<tr>
-<td width="32%" valign="top">
-
-<div align="center">
-
-<img src="https://github.com/mrutyunjaya012.png" width="150" style="border-radius:50%; border:3px solid #bb9af7"/>
+<img src="https://github.com/mrutyunjaya012.png" width="150" style="border-radius:50%; border:4px solid #bb9af7"/>
 
 ### Mrutyunjaya ✅
 `@mrutyunjaya012`
 
 Passionate about building scalable web applications and solving real-world problems.
 
+📍 India &nbsp;|&nbsp; 📧 mrutyunjaya407@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/mrutyunjaya011) &nbsp;|&nbsp; 📸 [Instagram](https://instagram.com/thatgenzcoder)
+
+[![](https://komarev.com/ghpvc/?username=mrutyunjaya012&label=PROFILE+VIEWS&color=bb9af7&style=flat-square)](https://visitcount.itsvg.in)
+
+<br>
+
+---
+
+## 🔥 GitHub Stats
+
+<img src="https://github-readme-stats.shion.dev/api?username=mrutyunjaya012&show_icons=true&theme=tokyonight&hide_border=true" width="70%" style="max-width:300px"/>
+
+## ⚡ Streak Stats
+
+<img src="https://streak-stats.demolab.com/?user=mrutyunjaya012&theme=tokyonight&hide_border=true" width="100%" style="max-width:500px"/>
+
+## 🧠 Top Languages
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mrutyunjaya012&layout=donut&theme=tokyonight&hide_border=true" width="80%" height="300px" style="max-width:500px"/>
+
+## 🏆 GitHub Trophies
+<h4>Tropies Loading.....</h4>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=mrutyunjaya012&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="100%" style="max-width:600px"/>  -->
+
+<br>
+
+---
+
 </div>
-
-<br>
-
-📍 India
-📧 mrutyunjaya407@gmail.com
-🔗 [linkedin.com/in/mrutyunjaya011](https://linkedin.com/in/mrutyunjaya011)
-📸 [instagram.com/thatgenzcoder](https://instagram.com/thatgenzcoder)
-
-<br>
-
-<div align="center">
-
-**PROFILE VIEWS**
-
-[![](https://komarev.com/ghpvc/?username=mrutyunjaya012&label=&color=bb9af7&style=flat-square)](https://visitcount.itsvg.in)
-
-</div>
-
-</td>
-<td width="68%" valign="top">
-
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="top">
-
-**🔥 GitHub Stats**
-
-<img src="https://github-readme-stats.shion.dev/api?username=mrutyunjaya012&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
-
-</td>
-<td width="50%" valign="top">
-
-**⚡ Streak Stats**
-
-<img src="https://streak-stats.demolab.com/?user=mrutyunjaya012&theme=tokyonight&hide_border=true" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🧠 Top Languages**
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mrutyunjaya012&layout=donut&theme=tokyonight&hide_border=true" width="100%"/>
-
-</td>
-<td width="50%" valign="top">
-
-**🏆 GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=mrutyunjaya012&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="top">
 
 ### 🚀 Currently Working On
 - ⚡ Building full-stack SaaS applications
@@ -107,24 +62,19 @@ Passionate about building scalable web applications and solving real-world probl
 - 🌐 Contributing to open source projects
 - 📚 Deep-diving into system design & distributed systems
 
-</td>
-<td width="50%" valign="top">
-
 ### 💡 Quick Facts
 - 🔭 Full Stack Developer (MERN + more)
 - 🌱 Currently leveling up in Cloud & System Design
 - 🧩 Strong in DSA & competitive problem solving
 - ⚡ Turning complex problems into simple solutions
 
-</td>
-</tr>
-</table>
+<div align="center">
 
 <br>
 
-<div align="center">
+---
 
-### 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrutyunjaya012/mrutyunjaya012/output/github-contribution-grid-snake-dark.svg" />
@@ -132,11 +82,7 @@ Passionate about building scalable web applications and solving real-world probl
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mrutyunjaya012/mrutyunjaya012/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=120&section=footer" width="100%"/>
 
