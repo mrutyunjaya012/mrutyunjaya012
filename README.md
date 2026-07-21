@@ -19,7 +19,9 @@
 
 <br><br>
 
-<img src="https://github.com/mrutyunjaya012.png" width="150" style="border-radius:50%; border:4px solid #bb9af7"/>
+<p align="center">
+  <img src="https://github.com/mrutyunjaya012.png?size=200" width="180" alt="Mrutyunjaya"/>
+</p>
 
 ### Mrutyunjaya ✅
 `@mrutyunjaya012`
