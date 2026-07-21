@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: mrutyunjaya012
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%232e7d32,%2343a047,%2366bb6a,%2381c784&color_dots=ebedf0,c6e6c6,8fce9a,4caf50,1b5e20
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%232e7d32,%2343a047,%2366bb6a,%2381c784&color_dots=161b22,0d3d0d,1b5e20,2e7d32,43a047
+            dist/github-contribution-grid-snake.svg?color_snake=%23bb9af7&color_dots=%23ebedf0,%23c3bef0,%23a48ce8,%237dcfff,%23bb9af7
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23bb9af7&color_dots=%23161b22,%232b2b4a,%233f3d7a,%23566ac9,%23bb9af7
 
       - name: Push generated files to the "output" branch
         uses: crazy-max/ghaction-github-pages@v4
