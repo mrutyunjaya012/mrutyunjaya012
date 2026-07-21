@@ -5,8 +5,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7DCFFF&background=00000000&center=true&vCenter=true&width=650&lines=%3E+whoami+%3D%3D+Full+Stack+Developer;%3E+passion+%3D%3D+Clean+Code+%2B+Scalable+Systems;%3E+status+%3D%3D+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
-
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7dcfff"/>
 <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=e0af68"/>
@@ -16,8 +15,6 @@
 <img src="https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=9ece6a"/>
 <img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7dcfff"/>
 <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=bb9af7"/>
-
-<br><br>
 
 <p align="center">
   <img src="https://github.com/mrutyunjaya012.png?size=200" width="180" alt="Mrutyunjaya"/>
@@ -32,7 +29,6 @@ Passionate about building scalable web applications and solving real-world probl
 
 [![](https://komarev.com/ghpvc/?username=mrutyunjaya012&label=PROFILE+VIEWS&color=bb9af7&style=flat-square)](https://visitcount.itsvg.in)
 
-<br>
 
 ---
 
@@ -42,7 +38,7 @@ Passionate about building scalable web applications and solving real-world probl
 
 ## ⚡ Streak Stats
 
-<img src="https://streak-stats.demolab.com/?user=mrutyunjaya012&theme=tokyonight&hide_border=true" width="100%" style="max-width:500px"/>
+<img src="https://streak-stats.demolab.com/?user=mrutyunjaya012&theme=tokyonight&hide_border=true" width="100%" height="350px" style="max-width:350px"/>
 
 ## 🧠 Top Languages
 
@@ -52,7 +48,6 @@ Passionate about building scalable web applications and solving real-world probl
 <h4>Tropies Loading.....</h4>
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=mrutyunjaya012&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="100%" style="max-width:600px"/>  -->
 
-<br>
 
 ---
 
