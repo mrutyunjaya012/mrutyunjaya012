@@ -16,9 +16,9 @@
 <img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7dcfff"/>
 <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=bb9af7"/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/mrutyunjaya012.png?size=200" width="180" alt="Mrutyunjaya"/>
-</p>
+</p> -->
 
 ### Mrutyunjaya ✅
 `@mrutyunjaya012`
